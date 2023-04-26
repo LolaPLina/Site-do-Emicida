@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    padding-top: 650px;
+}
+
+.classdaimg{
+    border-radius: 50%;
+}
+
+#panda{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(rgb(255, 244, 87) 0%, rgb(100, 0, 100) 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    font-family: 'Comic Neue', cursive;
+}
+
+#bio{
+    padding: 50px;
+}
+
+.classdadiv{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.menu{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    left: 250px;
+    z-index: 10;
+    cursor: pointer;
+}
+
+.links{
+    float: left;
+    padding-top: 5px;
+    padding-left: 50px;
+    font-size: 20px;
+    
+}
+
+ #name{
+    font-family: 'Comic Neue', cursive;
+ }
+
+ #fontparabio{
+    font-family: 'Comic Neue', cursive;
+ }
